@@ -1,3 +1,3 @@
 # assignments-
-This repository is my practice questions
+This repository includes my practice questions.
 
